@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "graphology": "^0.24.1",
+    "graphology-gexf": "^0.10.2",
+    "sigma": "^2.3.1"
+  }
+}
